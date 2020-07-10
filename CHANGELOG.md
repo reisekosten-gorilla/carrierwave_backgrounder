@@ -1,4 +1,9 @@
 
+## 0.4.3
+
+### enhancements
+  * Adding support for Carrierwave 2
+
 ## 0.4.2
 
 ### enhancements
